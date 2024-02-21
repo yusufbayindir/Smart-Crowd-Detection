@@ -1,3 +1,12 @@
+#Authors
+
+@ahmetcoko
+
+@HuseyınKanat
+
+@yusufbayindir
+
+
 #Dependencies
 
 PyQt5: Used for creating the graphical user interface.
